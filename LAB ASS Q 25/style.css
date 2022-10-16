@@ -1,0 +1,18 @@
+label
+{
+    width: 130px;
+    display: inline-block;
+}
+#form
+{
+    align-content: center;
+    border-radius: 10px;
+    background: #ccf5ff;
+    color: rgb(0, 50, 126);
+    width: 320px;
+    padding: 5px;
+}
+#cen
+{
+    text-align: center;
+}

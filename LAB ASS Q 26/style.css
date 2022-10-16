@@ -1,0 +1,23 @@
+#purpol
+                {
+                   background-color: rgb(218, 183, 252);
+                    
+                }
+                #center
+                {
+                    text-align: center;
+                }
+                .scrollabletextbox {
+                    height:100px;
+                    width:300px;
+                    font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+                    font-size: 82%;
+                    overflow:scroll;
+                }
+
+                textarea
+                {
+                    line-height:3em;
+                    overflow:scroll;
+                    padding:5px;
+                }

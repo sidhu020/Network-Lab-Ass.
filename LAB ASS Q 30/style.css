@@ -1,0 +1,25 @@
+textarea
+{
+    background-color: rgb(65, 65, 65);
+    margin:5px ;
+}
+h3
+{
+    color: white;
+}
+input
+{
+    background-color: rgb(65, 65, 65) ;
+    width: 100px;
+}
+button
+{
+    background-color: rgb(65, 65, 65) ;
+    margin-left: 150px;
+    color: gray;
+    
+}
+table
+{
+    border-spacing:0;
+}

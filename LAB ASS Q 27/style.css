@@ -1,0 +1,42 @@
+div
+            {
+                padding: 10px;
+                height: 650px;
+                width: 500px;
+                border: solid;
+                
+                
+               
+            }
+
+            .a
+            {
+                width: 100px;
+                display: inline-block;
+                 
+            }
+            .b
+            {
+                padding-left: 105px;
+            }
+            textarea
+            {
+                height: 90px;
+                width: 250px;
+                line-height:1em;
+                overflow:scroll;
+                padding:5px;
+            
+            }
+            hr
+            {
+                width:100%;
+                background-color: blue;
+                height: 1px;
+
+            
+            }
+            .d
+            {
+                padding-left: 90px;
+            }
