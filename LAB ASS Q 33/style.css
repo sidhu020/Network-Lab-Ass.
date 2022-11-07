@@ -1,0 +1,33 @@
+div
+{
+    
+    height: 300px;
+    width: 400px;
+    margin-left: 1055px;
+    margin-top: 200px;
+    text-align: center;
+}
+body
+{
+    background-repeat: no-repeat;
+}
+p
+{
+    font-size: 30px;
+    color: white;
+    text-align: justify;
+    
+}
+
+button
+{ 
+    
+    font-size: 30px;
+    background-color: rgb(38, 50, 36);
+    border: 0ch;
+    border-radius: 50px;
+    height: 70px;
+    width: 330px;
+    color: antiquewhite;
+    margin-top: 80px;
+}
